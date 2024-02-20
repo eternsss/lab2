@@ -10,7 +10,8 @@
 5. Вводим условие
 6. Выводим результат
 **Результат**
-![image](file:///home/maslenok/Рабочий стол/606-31/БА/py/lab002/рез1.png)
+![рез1](https://github.com/eternsss/lab2/assets/155539142/53baa894-f3d0-48c7-8c14-96d8467745d5)
+
 
 **Условие**
 ![image](https://github.com/eternsss/lab2/assets/155539142/fc2c8e27-b0e0-419a-92e1-a56b2902a3ad)
@@ -20,7 +21,8 @@
 2. Меняем систему счисления с помощью bin
 3. Выводим результат через count, чтобы посчитать количество
 **Результат**
-![image](https://github.com/eternsss/lab2/assets/155539142/398ad7ac-7eb1-4760-826a-c799aba30862)
+![htp2](https://github.com/eternsss/lab2/assets/155539142/bb3a38e4-13d0-4212-aae3-ff054d89807a)
+
 
 **Условие**
 ![image](https://github.com/eternsss/lab2/assets/155539142/a1ffe11b-df16-447f-8f8a-39bca582556d)
@@ -33,4 +35,5 @@
 5. Выводим число и порядковый номер
    
 **Результат**
-file:///home/maslenok/Рабочий стол/606-31/БА/py/lab002/htp3.png
+![htp3](https://github.com/eternsss/lab2/assets/155539142/ca1823a0-284b-42dc-b0d4-b669c68db6bb)
+
