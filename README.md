@@ -2,15 +2,15 @@
 ## Вариант 3
 **Условие**
 ![image](https://github.com/eternsss/lab2/assets/155539142/ab771aa4-a87f-487d-aace-028c87150e53)
-###**Задача 1.Алгоритм**
+##**Задача 1.Алгоритм**
 1. 
 **Результат**
-![image](https://github.com/eternsss/lab2/assets/155539142/03682001-869c-4e6d-9089-24ec765b8de3)
+
 
 **Условие**
 ![image](https://github.com/eternsss/lab2/assets/155539142/fc2c8e27-b0e0-419a-92e1-a56b2902a3ad)
 
-###**Задача 2.Алгоритм**
+##**Задача 2.Алгоритм**
 
 **Результат**
 ![image](https://github.com/eternsss/lab2/assets/155539142/398ad7ac-7eb1-4760-826a-c799aba30862)
@@ -21,5 +21,5 @@
 ##**Задача 3.Алгоритм**
 
 **Результат**
-![image](https://github.com/eternsss/lab2/assets/155539142/21b76c44-355d-40fe-84ac-4e5838cd5df6)
+
 
